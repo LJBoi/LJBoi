@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LJBoi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Making music and coding
+- 🌱 I’m currently learning Music and code
 - 💞️ I’m looking to collaborate on Sondcloud, bandlab sometimes coding
 - 📫 How to reach me Joshybleu@outlook.com
 
